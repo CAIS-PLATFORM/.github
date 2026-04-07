@@ -35,10 +35,10 @@ Ensemble, construisons l’avenir de l’IA camerounaise.
 
 ## Contact
 
-- **Email** : contact@cais.cm *(à adapter)*
-- **Site web** : www.cais.cm *(à adapter)*
-- **LinkedIn** : Cameroon Artificial Intelligence Society *(à adapter)*
-- **X (Twitter)** : @CAIS_Cameroon *(à adapter)*
+- **Email** : ###########
+- **Site web** : ################
+- **LinkedIn** : ################
+- **X (Twitter)** : #################
 
 ---
 
