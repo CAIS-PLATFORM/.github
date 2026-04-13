@@ -42,10 +42,10 @@ La CAIS accueille tous les acteurs passionnés par l'intelligence artificielle :
 
 Pour toute information ou adhésion :
 
-- **Email** : [contact@cais.cm](mailto:contact@cais.cm) *(à adapter)*
-- **Site web** : [www.cais.cm](https://www.cais.cm) *(à adapter)*
-- **LinkedIn** : Cameroon Artificial Intelligence Society *(à adapter)*
-- **Twitter/X** : @CAIS_Cameroon *(à adapter)*
+- **Email** : ########
+- **Site web** : ###########
+- **LinkedIn** : ###########
+- **Twitter/X** : ##############
 
 ---
 
